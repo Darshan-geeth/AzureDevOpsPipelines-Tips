@@ -5,7 +5,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  subscription: DAgility(44e26024-4977-4419-8d23-0e1e22e8804e)
+  subscription: sc-loandepot
   resourceGroup: LoanDepotSanboxrg
   storageAccount: dkterraformtfstateskip
   container: tfstate
